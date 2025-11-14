@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background-color: #111;
+  color: #f5f5f5;
+}
+button {
+  background-color: gold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+button:hover {
+  background-color: orange;
+}
+
+body {
+  background-color: #111;
+  color: white;
+  text-align: center;
+}
+
+.destaque {
+  color: gold;
+  font-size: 20px;
+  font-weight: bold;
+}
